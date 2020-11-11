@@ -14,7 +14,7 @@ I lead open source or contribute the following projects
 
 ### <img src="./flyCat.gif" width="50"> A little more about me...  
 ```javascript
-const anmol = {
+const chenfeng = {
     pronouns: "He" | "Him",
     code: ["Javascript", "Typescript", "php"],
     askMeAbout: ["web dev", "tech", "parser", "engineering"],
@@ -31,4 +31,5 @@ const anmol = {
         databases: ["mongo", "MySql"],
     },
     currentFocus: "parse for anything"
+    funFact:"practice make prefect"
 };
