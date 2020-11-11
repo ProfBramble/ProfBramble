@@ -31,5 +31,5 @@ const chenfeng = {
         databases: ["mongo", "MySql"],
     },
     currentFocus: "parse for anything"
-    funFact:"practice make prefect"
+    funFact: "practice make prefect"
 };
