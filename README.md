@@ -6,10 +6,10 @@
 ----
 I lead open source or contribute the following projects
 - 👯 contribution[babel-plugin-import](https://github.com/ant-design/babel-plugin-import)
-- 😄optimize and refactor [dt-react-component](https://github.com/DTStack/dt-react-component)
-- 📫install parser in [dt-monaco-editor](https://github.com/DTStack/dt-react-monaco-editor)
+- 😄 optimize and refactor [dt-react-component](https://github.com/DTStack/dt-react-component)
+- 📫 install parser in [dt-monaco-editor](https://github.com/DTStack/dt-react-monaco-editor)
 - 🤔 open source[babel-plugin-treasure](https://github.com/DTStack/babel-plugin-treasure)
-- 🌱developing [dt-python-parser]()
+- 🌱 developing [dt-python-parser]()
 - ⚡ so on...
 
 ### <img src="./flyCat.gif" width="50"> A little more about me...  
