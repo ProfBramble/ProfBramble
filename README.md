@@ -31,6 +31,6 @@ const chenfeng = {
         devOps: ["Nginx", "Docker🐳", "Kubernetes"],
         databases: ["mongo", "MySql"],
     },
-    currentFocus: "parse for anything"
+    currentFocus: "parse for anything",
     funFact: "practice make prefect"
 };
