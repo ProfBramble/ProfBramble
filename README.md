@@ -1,7 +1,7 @@
 ### Hi 👋 , I'm ProfBramble & I ❤️ code.
 <p><em>Software Engineer at <a href="https://github.com/DTStack">DTstack</a><img src="./codingCat.gif" width="30"> ,my assumed name is chenfeng
 </em></p>
-<p><em>I'm developing <a href="#">python-parser</a>, and I've done a lot of research on parser related fields.</em></p>
+<p><em>I'm developing <a href="https://github.com/DTStack/dt-python-parser">python-parser</a>, and I've done a lot of research on parser related fields.</em></p>
 
 ----
 I lead open source or contribute the following projects
@@ -9,7 +9,7 @@ I lead open source or contribute the following projects
 - 😄 optimize and refactor [dt-react-component](https://github.com/DTStack/dt-react-component)
 - 📫 install parser in [dt-monaco-editor](https://github.com/DTStack/dt-react-monaco-editor)
 - 🤔 open source [babel-plugin-treasure](https://github.com/DTStack/babel-plugin-treasure)
-- 🌱 developing [dt-python-parser]()
+- 🌱 developing [dt-python-parser](https://github.com/DTStack/dt-python-parser)
 - 🌱 add hiveSql parser in [dt-sql-parser](https://github.com/DTStack/dt-sql-parser)
 - ⚡ so on...
 
