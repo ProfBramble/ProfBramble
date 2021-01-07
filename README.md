@@ -6,7 +6,7 @@
 
 ----
 I lead open source or contribute the following projects
-- 👯 contribution [babel-plugin-import](https://github.com/ant-design/babel-plugin-import)
+- 👯 contribution [babel-plugin-import](https://github.com/ant-design/babel-plugin-import)，[typeScript deep dive](https://github.com/jkchao/typescript-book-chinese)
 - 😄 optimize and refactor [dt-react-component](https://github.com/DTStack/dt-react-component)
 - 📫 install parser in [dt-monaco-editor](https://github.com/DTStack/dt-react-monaco-editor)
 - 🤔 open source [babel-plugin-treasure](https://github.com/DTStack/babel-plugin-treasure)，[dt-python-parser](https://github.com/DTStack/dt-python-parser)
