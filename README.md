@@ -25,7 +25,7 @@ const chenfeng = {
             parser:["babel","pegjs"]
         },
         backEnd: {
-            parser:["antlr4"]
+            parser:["antlr4"],
             js: ["node"]
         },
         devOps: ["Nginx", "Docker🐳", "Kubernetes"],
